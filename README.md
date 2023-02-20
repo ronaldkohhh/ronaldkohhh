@@ -9,7 +9,7 @@ I'm a Blockchain Developer 💻 and Research Analyst 🔍 !
 
 - 👋 Hi, I’m @ronaldkohhh
 - 👀 I’m interested in Web3/Blockchain/Cryptocurrencies.
-- 🌱 I’m currently learning front-end development.
+- 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on any Web3 projects.
 - 📫 You can reach me at my email ronald9872@gmail.com or Telegram @ronaldkohhh
 
