@@ -3,7 +3,7 @@ Hi there, I'm Ronald 👋
 </h3>
 
 <h2 align="center">
-I'm a Blockchain Developer 💻 and Research Analyst 🔍 !
+I'm a Web3 Full-Stack Developer 💻 !
 </h2> 
 
 
