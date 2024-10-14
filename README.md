@@ -2,11 +2,6 @@
 Hi there, I'm Ronald 👋
 </h3>
 
-<h2 align="center">
-I'm a Web3 Full-Stack Developer 💻 !
-</h2> 
-
-
 - 👋 Hi, I’m @ronaldkohhh
 - 👀 I’m interested in Web3/Blockchain/Cryptocurrencies.
 - 🌱 I’m currently learning backend development.
